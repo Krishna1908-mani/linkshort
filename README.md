@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LinkShort FastAPI Full Stack - Fixed Structure
 
 This project is a URL shortener built with FastAPI, React/Vite, and MongoDB.
@@ -54,3 +55,6 @@ MONGO_URI=mongodb://127.0.0.1:27017/linkshortener_fastapi
 ```
 
 Use MongoDB Compass or local MongoDB service.
+=======
+# linkshort
+>>>>>>> ff60e909379948b9b5b4325a0337d0c14376f068
