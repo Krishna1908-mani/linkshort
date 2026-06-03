@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # LinkShort FastAPI Full Stack - Fixed Structure
 
 This project is a URL shortener built with FastAPI, React/Vite, and MongoDB.
@@ -58,3 +59,6 @@ Use MongoDB Compass or local MongoDB service.
 =======
 # linkshort
 >>>>>>> ff60e909379948b9b5b4325a0337d0c14376f068
+=======
+# linkshort
+>>>>>>> a2e42c9bb27e9421f9cd382b4363c54fa92bed2a
